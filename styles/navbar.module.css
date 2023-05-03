@@ -1,0 +1,7 @@
+.navbarItemsMobile a {
+  color: #fff;
+}
+
+.navbarItems a:hover {
+  color: blue;
+}
